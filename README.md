@@ -1,2 +1,2 @@
 # CasaCriativa
-Site para publicação de ideias para quarentena
+Plataforma para contribuir com ideias de atividades para fazer durante o isolamento social.
